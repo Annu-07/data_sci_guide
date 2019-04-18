@@ -52,6 +52,29 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
 
+[Learn Data Science - Dataquest](https://www.dataquest.io)
+
+
+### Python Starter Repo
+[Python Starter Repo](https://github.com/ines/course-starter-python)
+
+
+### Python e-books
+
+[O'Reilly Ebook: Machine Learning is Changin The Rules](https://activestate.com/resources/white-papers/oreilly-machine-learning)
+
+[Pyhton Machine Learning - WOW! eBook](https://www.wowebook.org/python-machine-learning-wiley/)
+
+[Python Beginners eBook](http://interactivepyhton.org/courselib/static/thinkcspy/index.html)
+
+[Essential Statistics with Python and R](http://escholarship.org/uc/item/03w0n5g3)
+
+[Free Educational eBOOK - Learn How To Program in Python3 | Digital Ocean](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python?Refcode=4d2af78748bd&utm_source=ebook&utm_medium=ebook7utm_campaign=pythonebook)
+
+[Python libraries that were used to generate Black hole images aling with Full Source Code](https://github.com/achael/eht-imaging/)
+
+
+
 ## Contributing
 
 > Ways to contribute forthcoming. 
